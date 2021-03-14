@@ -187,7 +187,7 @@ img {
 .features-list-icon {
   width: 70px;
   height: 70px;
-  fill: ;
+  /* fill: ; */
 }
 
 .titles-list {
@@ -362,8 +362,6 @@ img {
   margin-bottom: 20px;
 }
 
-
-}
 /*--------- END FOOTER--------*/
 
 .logo {
@@ -585,4 +583,4 @@ img {
 
 /*--------- END OUR PROJECTS--------*/
 
-/*-------END PORTFOLIO---------*/
+/*-------END PORTFOLIO--------- */
